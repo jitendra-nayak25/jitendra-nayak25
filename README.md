@@ -19,5 +19,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitendra-nayak25&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra-nayak25&layout=compact&theme=dark)
+## 📊 GitHub Stats
+
+![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitendra-nayak25&show_icons=true&theme=tokyonight)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jitendra-nayak25&theme=tokyonight)
