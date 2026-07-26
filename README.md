@@ -18,8 +18,13 @@
 
 ---
 
-### 📊 GitHub Stats
+
 ## 📊 GitHub Stats
 
 ![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitendra-nayak25&show_icons=true&theme=tokyonight)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jitendra-nayak25&theme=tokyonight)
+
+## 📊 GitHub Overview
+
+![Commits](https://img.shields.io/github/commit-activity/m/jitendra-nayak25/jitendra-nayak25?style=for-the-badge&logo=github&label=Commits)
+![Stars](https://img.shields.io/github/stars/jitendra-nayak25?style=social)
