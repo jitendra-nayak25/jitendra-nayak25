@@ -21,5 +21,5 @@
 
 ## 📊 GitHub Stats
 
-![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitendra-nayak25&show_icons=true&theme=tokyonight)
+![Jitendra's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jitendra-nayak25&show_icons=true&theme=tokyonight))
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jitendra-nayak25&theme=tokyonight)
